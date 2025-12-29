@@ -1,1 +1,1 @@
-Kodluyoruz ilk repo olusturuldu.
+# Kodluyoruz ilk repo olusturuldu.
